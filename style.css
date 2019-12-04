@@ -57,9 +57,9 @@ article.media-post > footer ul {
   margin-bottom: 0;
 }
 
-/*.activated-heart {*/
-/*  color: red;*/
-/*}*/
+.activated-heart {
+  color: red;
+}
 
 .hidden {
   visibility: hidden;
